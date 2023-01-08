@@ -1,16 +1,16 @@
 # JRU-JavaProfessional<br>
 
-## 03. Java Professional - this is the third module in JavaRush University.<br>
+## **03. Java Professional** - this is the third module in JavaRush University.<br>
 Garbage collection and reference types in Java. Design patterns. Development methodologies.<br> 
 Maven basics, introduction to Guava, Apache Common Collections, JUnit and Mockito.<br> 
 Logging. Networking. Software architecture. HTTP/HTTPS protocols.<br> 
 Servlets, servlet containers, Tomcat. Introduction to MVC. <br>
 Web services. Final project: Servlet-quest contest.<br>
 
-**Course program**<br>
-Training on the course consists of 5 modules + practical module (performing a group project):<br>
+##
 
-## 
+**Course all program**<br>
+Training on the course consists of 5 modules + practical module (performing a group project):<br>
 
 **01. Java Syntax.** <br>
 https://github.com/LeeTovetz/JRU-JavaSyntax<br>
