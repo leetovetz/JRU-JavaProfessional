@@ -7,10 +7,7 @@ Logging. Networking. Software architecture. HTTP/HTTPS protocols.<br>
 Servlets, servlet containers, Tomcat. Introduction to MVC. <br>
 Web services. Final project: Servlet-quest contest.<br>
 
-https://github.com/LeeTovetz/project-maven/tree/master
-<a href="https://github.com/LeeTovetz/project-maven/tree/master" >**Mini-project 01 on the topic: Maven**</a>
-
-**Mini-project 01 on the topic: Maven**<br>
+<a href="https://github.com/LeeTovetz/project-maven/tree/master" >**Mini-project 01 on the topic: Maven**</a><br>
  Task: You need to make an executable JAR file with the game in JavaFX through the graphics engine from JavaRush.<br>
 To do this:<br>
 - Make a fork from the repository; 
