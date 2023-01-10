@@ -16,7 +16,7 @@ To do this:<br>
 - Add plugins;
 - Add a "resources" section;
 - Pour the changes into your GitHub repository and send the link to it to your teacher. <br>
-- 
+ 
 
 ##
 ##
