@@ -13,7 +13,7 @@ To do this:<br>
 - Add dependencies;
 - Add plugins;<br>
 ## 
-<a href="https://github.com/LeeTovetz/hippodrome" >**Mini-project 02: JUnit5 and Log4j2 by JavaRush University**</a><br>
+<a href="https://github.com/LeeTovetz/hippodrome" >**Mini-project 02: JUnit5 and Log4j2**</a><br>
 A program is given - a simulation of a racetrack.<br>
 My task is to add testing and logging.<br>
 - Add tests;
