@@ -9,11 +9,9 @@ Web services. Final project: Servlet-quest contest.<br>
 ##
 <a href="https://github.com/LeeTovetz/project-maven/tree/master" >**Mini-project 01 on the topic: Maven**</a><br>
  Task: You need to make an executable JAR file with the game in JavaFX through the graphics engine from JavaRush.<br>
-To do this:<br>
-- Make a fork from the repository; 
+To do this:<br> 
 - Add dependencies;
-- Add plugins;
-- Pour the changes into your GitHub repository and send the link to it to your teacher. <br>
+- Add plugins;<br>
 ## 
 <a href="https://github.com/LeeTovetz/hippodrome" >**Mini-project 02: JUnit5 and Log4j2 by JavaRush University**</a><br>
 A program is given - a simulation of a racetrack.<br>
