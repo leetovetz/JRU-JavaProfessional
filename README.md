@@ -19,6 +19,12 @@ My task is to add testing and logging.<br>
 - Add tests;
 - Add logging;<br>
 ##
+<a href="https://github.com/LeeTovetz/project-front/tree/master" >**Mini-project 03: HTML, CSS, JS, jQuery**</a><br>
+We need to make a UI for CRUD backend, using HTML, CSS, JS, jQuery.<br> 
+We will make an admin panel to manage online game accounts.<br>
+- Download and install Tomcat;
+- Add HTML, CSS, JS, jQuery;<br>
+
 ##
 
 **Program of the whole course**<br>
