@@ -56,6 +56,4 @@ this is the final project of the second "Java Core" module at JavaRush Universit
 
 **05. Final project for the entire course.**<br>
 
-
-
-
+##
