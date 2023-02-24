@@ -24,7 +24,11 @@ We need to make a UI for CRUD backend, using HTML, CSS, JS, jQuery.<br>
 We will make an admin panel to manage online game accounts.<br>
 - Download and install Tomcat;
 - Add HTML, CSS, JS, jQuery;<br>
-
+##
+<a href="https://github.com/LeeTovetz/project-servlet/tree/master" >**Mini-project 04: Servlets, JSP**</a><br>
+Task: Write a "Tic-tac-toe" game using Servlets and JSP.<br>
+- Add Tomcat;
+- Doing the task of writing the game;<br>
 ##
 
 **Program of the whole course**<br>
