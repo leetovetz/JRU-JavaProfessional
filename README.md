@@ -31,6 +31,10 @@ Task: Write a "Tic-tac-toe" game using Servlets and JSP.<br>
 - Doing the task of writing the game;<br>
 ##
 
+**<a href="https://github.com/LeeTovetz/ua.javarush.november.kravchenko.quest/tree/november" >**Quest**</a> -> This is the final project of the third "Java Professional" module at JavaRush University.
+
+##
+
 **Program of the whole course**<br>
 Training on the course consists of 5 modules + practical module (performing a group project):<br>
 
